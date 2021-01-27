@@ -2,9 +2,9 @@
     "name": "tealzackbot",
     "version": "1.0.0",
     "description": "The Teal Shop FB Bot",
-    "main": "index.js",
+    "main": "./index.html",
     "scripts": {
-        "web": "node ./index.js"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
