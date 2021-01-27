@@ -2,11 +2,10 @@
     "name": "tealzackbot",
     "version": "1.0.0",
     "description": "The Teal Shop FB Bot",
-    "main": "index.js",
+    "main": "index.html",
     "scripts": {
         "start": "node index.js",
-        "build": "ng build",
-        "heroku-postbuild": "ng build --prod"
+        "build": "webpack"
     },
     "repository": {
         "type": "git",
