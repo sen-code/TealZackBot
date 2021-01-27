@@ -1,24 +1,24 @@
 {
-  "name": "tealzackbot",
-  "version": "1.0.0",
-  "description": "The Teal Shop FB Bot",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sen-code/TealZackBot.git"
-  },
-  "author": "Sen",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sen-code/TealZackBot/issues"
-  },
-  "homepage": "https://github.com/sen-code/TealZackBot#readme",
-  "dependencies": {
-    "autoprefixer": "^10.2.3",
-    "postcss": "^8.2.4",
-    "tailwindcss": "^2.0.2"
-  }
+    "name": "tealzackbot",
+    "version": "1.0.0",
+    "description": "The Teal Shop FB Bot",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sen-code/TealZackBot.git"
+    },
+    "author": "Sen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sen-code/TealZackBot/issues"
+    },
+    "homepage": "https://github.com/sen-code/TealZackBot#readme",
+    "dependencies": {
+        "autoprefixer": "^10.2.3",
+        "postcss": "^8.2.4",
+        "tailwindcss": "^2.0.2"
+    }
 }
