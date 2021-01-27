@@ -4,8 +4,7 @@
     "description": "The Teal Shop FB Bot",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
-        "build": "webpack"
+        "build": "ng build"
     },
     "repository": {
         "type": "git",
