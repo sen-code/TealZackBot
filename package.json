@@ -2,7 +2,7 @@
     "name": "tealzackbot",
     "version": "1.0.0",
     "description": "The Teal Shop FB Bot",
-    "main": "index.html",
+    "main": "index.js",
     "scripts": {
         "start": "node index.js",
         "build": "webpack"
