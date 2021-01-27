@@ -1,0 +1,19 @@
+{
+  "name": "tealzackbot",
+  "version": "1.0.0",
+  "description": "The Teal Shop FB Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sen-code/TealZackBot.git"
+  },
+  "author": "Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sen-code/TealZackBot/issues"
+  },
+  "homepage": "https://github.com/sen-code/TealZackBot#readme"
+}
